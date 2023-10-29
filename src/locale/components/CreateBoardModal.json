@@ -1,0 +1,47 @@
+{
+  "namespace": "component_createBoardModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "게시판_새_글_작성": "Create Post",
+        "게시물_제목": "Post Title",
+        "게시물_제목_예시": "ex) Part oo has been discontinued, so I'm looking for a replacement.",
+        "게시물_내용": "Post Content",
+        "게시뮬_내용_예시": "[Precautions when writing]\n•Your posts may be deleted by Banana Parts in legal situations.\n•No notifications for posters if they mark the answer as complete.\n\n[Good example]\nex) Looking for discontinued part B from manufacturer A. Please provide replacement info. Thanks!\n",
+        "새_글_올리기": "Upload Post",
+        "게시판_글_수정": "Edit Post",
+        "저장하기": "SAVE",
+        "게시글_제목을_작성해주세요": "Please fill out the post title",
+        "게시글_내용을_작성해주세요": "Please fill out the post content"
+      }
+    },
+    "ko": {
+      "translation": {
+        "게시판_새_글_작성": "게시판 새 글 작성",
+        "게시물_제목": "게시물 제목",
+        "게시물_제목_예시": "ex) oo부품이 단종 되어서 대체품을 찾고있습니다.",
+        "게시물_내용": "게시물 내용",
+        "게시뮬_내용_예시": "[작성시 유의 사항]\n•본 게시판에서 작성한 내용은 법적 문제가 발생할 경우에는 바나나파츠에서 해당 글을 삭제할 수 있습니다.\n•게시글 작성자는 답변이 도움이 되었다면 답변 완료 체크를 선택하여 더 이상 알림을 받지 않을 수 있습니다.\n\n[좋은 작성 예시]\nex) 저는 A 제조사의 B 부품을 구하고 있습니다. 해당 부품은 단종되었지만 대체품도 함께 알려주시면 감사하겠습니다\n",
+        "새_글_올리기": "새 글 올리기",
+        "게시판_글_수정": "게시글 수정",
+        "저장하기": "저장하기",
+        "게시글_제목을_작성해주세요": "게시글 제목을 작성해주세요.",
+        "게시글_내용을_작성해주세요": "게시글 내용을 작성해주세요."
+      }
+    },
+    "chi": {
+      "translation": {
+        "게시판_새_글_작성": "创建职位",
+        "게시물_제목": "职位名称",
+        "게시물_제목_예시": "ex) oo零件停产了，正在寻找替代品。",
+        "게시물_내용": "职位内容",
+        "게시뮬_내용_예시": "[填写时的注意事项]\n•如有法律问题，香蕉片有权删除本公告栏的内容。\n•发帖人可以选择标记回复完成，不再接受提示。\n\n[很好的制作示例]\nex) 我正在寻找A制造商的B零件。该零件已经停产，但还请告知替代品。谢谢！\n",
+        "새_글_올리기": "上传帖子",
+        "게시판_글_수정": "修改帖子",
+        "저장하기": "保存",
+        "게시글_제목을_작성해주세요": "请填写帖子标题。",
+        "게시글_내용을_작성해주세요": "请填写帖子内容。"
+      }
+    }
+  }
+}

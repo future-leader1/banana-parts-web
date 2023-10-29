@@ -1,0 +1,71 @@
+{
+  "namespace": "comopents_Product_Estimate_Details",
+  "locale": {
+    "en": {
+      "translation": {
+        "견적 정보": "Estimate Information",
+        "견적 요청 수량": "Request Quantity",
+        "희망 단가(단위": "Desired Unit Price(Unit",
+        "구매자 메모": "Buyer's Memo",
+        "판매 가능 수량": "Available Quantity",
+        "견적 단가(단위": "Estimate Unit Price(Unit",
+        "견적 금액(단위": "Estimate Amount (Unit",
+        "납기 가능일": "Delivery Date",
+        "비고": "Note",
+        "요청일": "Requested Date",
+        "견적 번호": "Estimate Number",
+        "부품명": "Product Name",
+        "제조사": "Manufacturer",
+        "단위": "Unit",
+        "Total": "Total",
+        "VAT": "VAT",
+        "Grand Total": "Grand Total",
+        "거절 사유": "Reason for Rejection"
+      }
+    },
+    "ko": {
+      "translation": {
+        "견적 정보": "견적 정보",
+        "견적 요청 수량": "견적 요청 수량",
+        "희망 단가(단위": "희망 단가(단위",
+        "구매자 메모": "구매자 메모",
+        "판매 가능 수량": "판매 가능 수량",
+        "견적 단가(단위": "견적 단가(단위",
+        "견적 금액(단위": "견적 금액(단위",
+        "납기 가능일": "납기 가능일",
+        "비고": "비고",
+        "요청일": "요청일",
+        "견적 번호": "견적 번호",
+        "부품명": "부품명",
+        "제조사": "제조사",
+        "단위": "단위",
+        "Total": "합계",
+        "VAT": "부가세",
+        "Grand Total": "총액",
+        "거절 사유": "거절 사유"
+      }
+    },
+    "chi": {
+      "translation": {
+        "견적 정보": "估价信息",
+        "견적 요청 수량": "估价请求数量",
+        "희망 단가(단위": "期望单价（单位",
+        "구매자 메모": "购买者备忘录",
+        "판매 가능 수량": "可售数量",
+        "견적 단가(단위": "估价单价（单位",
+        "견적 금액(단위": "估价金额（单位",
+        "납기 가능일": "交货日期",
+        "비고": "备注",
+        "요청일": "请求日期",
+        "견적 번호": "估价编号",
+        "부품명": "产品名称",
+        "제조사": "制造商",
+        "단위": "单位",
+        "Total": "总计",
+        "VAT": "增值税",
+        "Grand Total": "总金额",
+        "거절 사유": "拒绝原因"
+      }
+    }
+  }
+}

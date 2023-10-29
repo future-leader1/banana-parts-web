@@ -1,0 +1,20 @@
+{
+  "namespace": "component_RowDataBar",
+  "locale": {
+    "en": {
+      "translation": {
+        "건": ""
+      }
+    },
+    "ko": {
+      "translation": {
+        "건": "건"
+      }
+    },
+    "chi": {
+      "translation": {
+        "건": ""
+      }
+    }
+  }
+}

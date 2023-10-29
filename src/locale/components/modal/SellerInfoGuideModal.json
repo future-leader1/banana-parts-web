@@ -1,0 +1,29 @@
+{
+  "namespace": "component_SellerInfoGuideModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매자 회원이신가요?": "Are you a seller member?",
+        "판매 활동을 위해서 판매자 인증을 진행해주세요.": "Please proceed with seller verification for selling activities.",
+        "나의 활동 > 나의 판매 활동 > 판매자 인증": "My Activities > My Selling Activities > Seller Verification",
+        "판매자 인증": "Seller Verification"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매자 회원이신가요?": "판매자 회원이신가요?",
+        "판매 활동을 위해서 판매자 인증을 진행해주세요.": "판매 활동을 위해서 판매자 인증을 진행해주세요.",
+        "나의 활동 > 나의 판매 활동 > 판매자 인증": "나의 활동 > 나의 판매 활동 > 판매자 인증",
+        "판매자 인증": "판매자 인증"
+      }
+    },
+    "chi": {
+      "translation": {
+        "판매자 회원이신가요?": "您是卖家会员吗？",
+        "판매 활동을 위해서 판매자 인증을 진행해주세요.": "请进行卖家验证以进行销售活动。",
+        "나의 활동 > 나의 판매 활동 > 판매자 인증": "我的活动 > 我的销售活动 > 卖家验证",
+        "판매자 인증": "卖家验证"
+      }
+    }
+  }
+}

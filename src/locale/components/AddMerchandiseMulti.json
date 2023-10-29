@@ -1,0 +1,47 @@
+{
+  "namespace": "component_AddMerchandiseMulti",
+  "locale": {
+    "en": {
+      "translation": {
+        "대량 판매 등록": "Bulk Sales Registration",
+        "1. 대량 판매 등록 엑셀양식을 다운로드 후, 상품명과 제조사를 채워주세요.": "1. Please download the Bulk Sales Registration Excel form and fill in the product name and manufacturer.",
+        "엑셀 양식 다운로드": "Download Excel Template",
+        "2. 정보를 입력한 엑셀파일을 아래 첨부해주세요.": "2. Please attach the Excel file and include the entered information below.",
+        "대량 판매 등록 엑셀 파일": "Bulk Sales Registration Excel File",
+        "업로드 요청전 반드시 부품명 / 제조사를 확인해주세요.": "Please verify the part name/manufacturer before requesting upload.",
+        "판매 등록은 최대 5000개 까지만 업로드 가능합니다.": "We're sorry, uploading is limited to a maximum of 5000 sales registrations.",
+        "해당 페이지는 pc버전만 가능합니다.": "This page is only available on PC.",
+        "대량 등록하기": "Bulk Register",
+        "고객 메모": "Customer Memo"
+      }
+    },
+    "ko": {
+      "translation": {
+        "대량 판매 등록": "대량 판매 등록",
+        "1. 대량 판매 등록 엑셀양식을 다운로드 후, 상품명과 제조사를 채워주세요.": "1. 대량 판매 등록 엑셀양식을 다운로드 후, 상품명과 제조사를 채워주세요.",
+        "엑셀 양식 다운로드": "엑셀 양식 다운로드",
+        "2. 정보를 입력한 엑셀파일을 아래 첨부해주세요.": "2. 정보를 입력한 엑셀파일을 아래 첨부해주세요.",
+        "대량 판매 등록 엑셀 파일": "대량 판매 등록 엑셀 파일",
+        "업로드 요청전 반드시 부품명 / 제조사를 확인해주세요.": "업로드 요청전 반드시 부품명 / 제조사를 확인해주세요.",
+        "판매 등록은 최대 5000개 까지만 업로드 가능합니다.": "판매 등록은 최대 5000개 까지만 업로드 가능합니다.",
+        "해당 페이지는 pc버전만 가능합니다.": "해당 페이지는 pc버전만 가능합니다.",
+        "대량 등록하기": "대량 등록하기",
+        "고객 메모": "고객 메모"
+      }
+    },
+    "chi": {
+      "translation": {
+        "대량 판매 등록": "大量销售注册",
+        "1. 대량 판매 등록 엑셀양식을 다운로드 후, 상품명과 제조사를 채워주세요.": "1. 下载大量销售注册Excel表格并填写产品名称和制造商。",
+        "엑셀 양식 다운로드": "下载Excel模板",
+        "2. 정보를 입력한 엑셀파일을 아래 첨부해주세요.": "2. 请在下方附上填写了信息的Excel文件。",
+        "대량 판매 등록 엑셀 파일": "大量销售注册Excel文件",
+        "업로드 요청전 반드시 부품명 / 제조사를 확인해주세요.": "在请求上传之前，请务必核实零件名称/制造商。",
+        "판매 등록은 최대 5000개 까지만 업로드 가능합니다.": "最多只能上传5000个销售注册。",
+        "해당 페이지는 pc버전만 가능합니다.": "该页面仅适用于PC版本。",
+        "대량 등록하기": "大量注册",
+        "고객 메모": "客户备忘录"
+      }
+    }
+  }
+}

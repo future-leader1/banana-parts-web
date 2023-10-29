@@ -1,0 +1,35 @@
+{
+  "namespace": "Home_Bookmarked_Products",
+  "locale": {
+    "en": {
+      "translation": {
+        "부품명": "Product Name",
+        "제조사": "Manufacturer",
+        "단가(1개)": "Unit Price (1 pc)",
+        "판매자수": "Number of Sellers",
+        "상세보기": "View Details",
+        "즐겨찾기 된 상품이 없습니다.": "No bookmarked products found."
+      }
+    },
+    "ko": {
+      "translation": {
+        "부품명": "부품명",
+        "제조사": "제조사",
+        "단가(1개)": "단가(1개)",
+        "판매자수": "판매자수",
+        "상세보기": "상세보기",
+        "즐겨찾기 된 상품이 없습니다.": "즐겨찾기 된 상품이 없습니다."
+      }
+    },
+    "chi": {
+      "translation": {
+        "부품명": "零件名称",
+        "제조사": "制造商",
+        "단가(1개)": "单价（1个）",
+        "판매자수": "卖家数量",
+        "상세보기": "查看详情",
+        "즐겨찾기 된 상품이 없습니다.": "没有收藏的商品。"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "namespace": "MerchandiseList",
+  "locale": {
+    "en": {
+      "translation": {
+        "제조사 목록": "Manufacturer List",
+        "판매상품 많은순": "Sort by Most Frequently Sold",
+        "판매상품 적은순": "Sort by Least Frequently Sold",
+        "제조사명 오름차순": "Sort by Manufacturer Name (Ascending)",
+        "제조사명 내림차순": "Sort by Manufacturer Name (Descending)",
+        "더보기": "More",
+        "제조사가 없습니다.": "No manufacturers available."
+      }
+    },
+    "ko": {
+      "translation": {
+        "제조사 목록": "제조사 목록",
+        "판매상품 많은순": "판매상품 많은순",
+        "판매상품 적은순": "판매상품 적은순",
+        "제조사명 오름차순": "제조사명 오름차순",
+        "제조사명 내림차순": "제조사명 내림차순",
+        "더보기": "더보기",
+        "제조사가 없습니다.": "제조사가 없습니다."
+      }
+    },
+    "chi": {
+      "translation": {
+        "제조사 목록": "制造商清单",
+        "판매상품 많은순": "按最畅销排序",
+        "판매상품 적은순": "按最不畅销排序",
+        "제조사명 오름차순": "按制造商名称升序排序",
+        "제조사명 내림차순": "按制造商名称降序排序",
+        "더보기": "更多",
+        "제조사가 없습니다.": "没有可用的制造商。"
+      }
+    }
+  }
+}

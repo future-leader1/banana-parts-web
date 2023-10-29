@@ -1,0 +1,29 @@
+{
+  "namespace": "component_QuickBuySellService",
+  "locale": {
+    "en": {
+      "translation": {
+        "구매 대행": "Purchase Proxy",
+        "필요한 전기부품 대신 찾아드립니다.": "We can help you find the electrical parts you need.",
+        "판매 대행": "Selling Proxy",
+        "잉여재고, 바나나파츠가 대신 팔아드립니다.": "We can help you find the electrical parts you need."
+      }
+    },
+    "ko": {
+      "translation": {
+        "구매 대행": "구매 대행",
+        "필요한 전기부품 대신 찾아드립니다.": "필요한 전기부품 대신 찾아드립니다.",
+        "판매 대행": "판매 대행",
+        "잉여재고, 바나나파츠가 대신 팔아드립니다.": "잉여재고, 바나나파츠가 대신 팔아드립니다."
+      }
+    },
+    "chi": {
+      "translation": {
+        "구매 대행": "购买代理",
+        "필요한 전기부품 대신 찾아드립니다.": "我们可以帮你找到你需要的电器零件。",
+        "판매 대행": "销售代理",
+        "잉여재고, 바나나파츠가 대신 팔아드립니다.": "我们可以帮你找到你需要的电器零件。"
+      }
+    }
+  }
+}

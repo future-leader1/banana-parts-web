@@ -1,0 +1,32 @@
+{
+  "namespace": "component_QutoationCard",
+  "locale": {
+    "en": {
+      "translation": {
+        "개당 단가": "Unit Price",
+        "납기 가능일": "Delivery Date",
+        "거절된 견적입니다.": "Rejected estimate.",
+        "견적 회신 대기중입니다.": "Awaiting estimate response.",
+        "견적 상세보기": "View Estimate Details"
+      }
+    },
+    "ko": {
+      "translation": {
+        "개당 단가": "개당 단가",
+        "납기 가능일": "납기 가능일",
+        "거절된 견적입니다.": "거절된 견적입니다.",
+        "견적 회신 대기중입니다.": "견적 회신 대기중입니다.",
+        "견적 상세보기": "견적 상세보기"
+      }
+    },
+    "chi": {
+      "translation": {
+        "개당 단가": "单位价格",
+        "납기 가능일": "交货日期",
+        "거절된 견적입니다.": "拒绝的报价。",
+        "견적 회신 대기중입니다.": "等待报价回复。",
+        "견적 상세보기": "查看报价详情"
+      }
+    }
+  }
+}

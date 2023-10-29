@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_UserHook",
+    "locale": {
+      "en": {
+        "translation": {
+          "회원정보가_수정되었습니다": "Profile edited successfully.",
+           "탈퇴하기가_완료되었습니다": "Account deleted successfully. We hope to see you soon again."
+        }
+      },
+      "ko": {
+        "translation": {
+          "회원정보가_수정되었습니다": "회원정보가 수정되었습니다.",
+           "탈퇴하기가_완료되었습니다": "탈퇴가 완료되었습니다. 언제든지 다시 뵙기를 바랍니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "회원정보가_수정되었습니다": "会员信息已修改。",
+           "탈퇴하기가_완료되었습니다": "帐户已成功删除。 我们希望不久能再见到你。"
+        }
+      }
+    }
+  }
+  

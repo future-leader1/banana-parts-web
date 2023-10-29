@@ -1,0 +1,29 @@
+{
+  "namespace": "component_UserInfoCard",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매자": "Seller",
+        "구매자": "Buyer",
+        "정보": "Information",
+        "담당자": "Contact Person"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매자": "판매자",
+        "구매자": "구매자",
+        "정보": "정보",
+        "담당자": "담당자"
+      }
+    },
+    "chi": {
+      "translation": {
+        "판매자": "销售员",
+        "구매자": "买方",
+        "정보": "信息",
+        "담당자": "联系人"
+      }
+    }
+  }
+}

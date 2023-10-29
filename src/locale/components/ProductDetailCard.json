@@ -1,0 +1,26 @@
+{
+  "namespace": "component_ProductDetailCard",
+  "locale": {
+    "en": {
+      "translation": {
+        "부품명": "Product Name",
+        "제조사": "MFR",
+        "단가": "Price"
+      }
+    },
+    "ko": {
+      "translation": {
+        "부품명": "부품명",
+        "제조사": "제조사",
+        "단가": "단가"
+      }
+    },
+    "chi": {
+      "translation": {
+        "부품명": "零件名称",
+        "제조사": "制造商",
+        "단가": "单价"
+      }
+    }
+  }
+}

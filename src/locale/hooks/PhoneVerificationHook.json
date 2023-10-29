@@ -1,0 +1,21 @@
+{
+    "namespace": "hooks_PhoneVerificationHook",
+    "locale": {
+      "en": {
+        "translation": {
+             "인증번호가_전송되었습니다": "Verification code sent."
+        }
+      },
+      "ko": {
+        "translation": {
+            "인증번호가_전송되었습니다": "인증번호가 전송되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+             "인증번호가_전송되었습니다": "发送验证码。"
+        }
+      }
+    }
+  }
+  

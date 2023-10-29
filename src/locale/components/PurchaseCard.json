@@ -1,0 +1,32 @@
+{
+  "namespace": "component_PurchaseCard",
+  "locale": {
+    "en": {
+      "translation": {
+        "부품명": "Product Name",
+        "제조사명": "Manufacturer Name",
+        "구매수량": "Purchase Quantity",
+        "희망단가": "Desired Price",
+        "메모": "Memo"
+      }
+    },
+    "ko": {
+      "translation": {
+        "부품명": "부품명",
+        "제조사명": "제조사명",
+        "구매수량": "구매수량",
+        "희망단가": "희망단가",
+        "메모": "메모"
+      }
+    },
+    "chi": {
+      "translation": {
+        "부품명": "零件名称",
+        "제조사명": "制造商名称",
+        "구매수량": "购买数量",
+        "희망단가": "期望价格",
+        "메모": "备注"
+      }
+    }
+  }
+}

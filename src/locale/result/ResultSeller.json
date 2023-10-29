@@ -1,0 +1,20 @@
+{
+  "namespace": "Result_Seller",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매자 검색": "Search Seller"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매자 검색": "판매자 검색"
+      }
+    },
+    "chi": {
+      "translation": {
+        "판매자 검색": "搜索卖家"
+      }
+    }
+  }
+}

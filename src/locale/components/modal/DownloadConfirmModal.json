@@ -1,0 +1,61 @@
+{
+  "namespace": "component_DownloadConfirmModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "잠시만요! 상품 구매 전 유의사항 알려드립니다.": "Please read this important information before purchasing the product.",
+        "판매자에 대한 검증": "Please allow for seller verification ",
+        "은 구매 전 필수": "before making a purchase",
+        "상품의":"Product's ",
+        "제조일자, 수입일자": "manufacture date, import date",
+        "판매자의": "Seller's",
+        "구매루트": "purchase route",
+        "제품보증": "Product warranty",
+        "사항": "information",
+        "신품, 중고품, 리퍼브, 가품": "New, used, refurbished, counterfeit",
+        "의 여부": " status",
+        "본인은 위 내용을 판매자와 직접 확인했으며 회원가입시 ": "I have personally verified the above information with the seller and have read and understood the ",
+        "이용약관": "Terms and Conditions",
+        "을 확인했습니다.": " during registration.",
+        "견적 다운로드": "Download Quotation"
+      }
+    },
+    "ko": {
+      "translation": {
+        "잠시만요! 상품 구매 전 유의사항 알려드립니다.": "잠시만요! 상품 구매 전 유의사항 알려드립니다.",
+        "판매자에 대한 검증": "판매자에 대한 검증",
+        "은 구매 전 필수": "구매 전 필수입니다.",
+        "상품의":"상품의 ",
+        "제조일자, 수입일자": "제조일자, 수입일자",
+        "판매자의": "판매자의",
+        "구매루트": "구매루트",
+        "제품보증": "제품보증",
+        "사항": "사항",
+        "신품, 중고품, 리퍼브, 가품": "신품, 중고품, 리퍼브, 가품",
+        "의 여부": "의 여부",
+        "본인은 위 내용을 판매자와 직접 확인했으며 회원가입시 ": "본인은 위 내용을 판매자와 직접 확인했으며 회원가입시 ",
+        "이용약관": "이용약관",
+        "을 확인했습니다.": "을 확인했습니다.",
+        "견적 다운로드": "견적 다운로드"
+      }
+    },
+    "chi": {
+      "translation": {
+        "잠시만요! 상품 구매 전 유의사항 알려드립니다.": "請稍候！購買產品前的重要信息。",
+        "판매자에 대한 검증": "賣家驗證",
+        "은 구매 전 필수": "在購買前必須進行驗證。",
+        "상품의":"產品",
+        "제조일자, 수입일자": "製造日期，進口日期",
+        "판매자의": "卖方的",
+        "구매루트": "購買途徑",
+        "제품보증": "產品保固",
+        "사항": "事項",
+        "신품, 중고품, 리퍼브, 가품": "全新、二手、翻新、仿冒品",
+        "의 여부": "狀態",
+        "본인은 위 내용을 판매자와 직접 확인했으며 회원가입시": "本人已與賣家核實以上內容，注册会员时 确认了",
+        "이용약관": "使用條款",
+        "을 확인했습니다.": "。"
+      }
+    }
+  }
+}

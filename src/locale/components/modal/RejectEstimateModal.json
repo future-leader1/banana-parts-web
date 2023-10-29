@@ -1,0 +1,38 @@
+{
+  "namespace": "component_RejectionEstimateModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "견적 거절": "Reject Estimate",
+        "거절 사유 선택": "Select Rejection Reason",
+        "거절 내용": "Rejection Description",
+        "자세한 거절 내용을 입력해주세요.": "Please enter detailed rejection description.",
+        "*견적을 거절하면 취소할 수 없습니다": "*You cannot cancel the estimate rejection",
+        "알림": "Notification",
+        "전체삭제": "Delete All"
+      }
+    },
+    "ko": {
+      "translation": {
+        "견적 거절": "견적 거절",
+        "거절 사유 선택": "거절 사유 선택",
+        "거절 내용": "거절 내용",
+        "자세한 거절 내용을 입력해주세요.": "자세한 거절 내용을 입력해주세요.",
+        "*견적을 거절하면 취소할 수 없습니다": "*견적을 거절하면 취소할 수 없습니다",
+        "알림": "알림",
+        "전체삭제": "전체삭제"
+      }
+    },
+    "chi": {
+      "translation": {
+        "견적 거절": "拒绝估价",
+        "거절 사유 선택": "选择拒绝原因",
+        "거절 내용": "拒绝说明",
+        "자세한 거절 내용을 입력해주세요.": "请输入详细的拒绝说明。",
+        "*견적을 거절하면 취소할 수 없습니다": "*拒绝估价后无法取消",
+        "알림": "通知",
+        "전체삭제": "刪除全部"
+      }
+    }
+  }
+}

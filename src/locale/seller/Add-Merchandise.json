@@ -1,0 +1,20 @@
+{
+  "namespace": "Seller_Add-Merchandise",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매 등록": "Sales Registration"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매 등록": "판매 등록"
+      }
+    },
+    "chi": {
+      "translation": {
+        "판매 등록": "销售登记"
+      }
+    }
+  }
+}

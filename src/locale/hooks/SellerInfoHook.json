@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_SellerInfoHook",
+    "locale": {
+      "en": {
+        "translation": {
+            "판매자_정보_제출이_완료되었습니다": "Seller information submitted successfully.",
+            "담당자_및_사업자_정보가_수정되었습니다": "Information edited successfully."
+        }
+      },
+      "ko": {
+        "translation": {
+          "판매자_정보_제출이_완료되었습니다": "판매자 정보 제출이 완료되었습니다.",
+          "담당자_및_사업자_정보가_수정되었습니다": "담당자 및 사업자 정보가 수정되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "판매자_정보_제출이_완료되었습니다": "卖方信息提交成功。",
+            "담당자_및_사업자_정보가_수정되었습니다": "资料编辑成功。"
+        }
+      }
+    }
+  }
+  

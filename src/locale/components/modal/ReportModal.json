@@ -1,0 +1,32 @@
+{
+  "namespace": "component_ReportModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "신고하기": "Report",
+        "신고 사유 선택": "Select Report Reason",
+        "신고 사유를 선택해주세요.": "Please select a report reason",
+        "추가 내용": "Additional Information",
+        "자세한 신고 사유를 입력해주세요.": "Please provide detailed report information"
+      }
+    },
+    "ko": {
+      "translation": {
+        "신고하기": "신고하기",
+        "신고 사유 선택": "신고 사유 선택",
+        "신고 사유를 선택해주세요.": "신고 사유를 선택해주세요.",
+        "추가 내용": "추가 내용",
+        "자세한 신고 사유를 입력해주세요.": "자세한 신고 사유를 입력해주세요."
+      }
+    },
+    "chi": {
+      "translation": {
+        "신고하기": "举报",
+        "신고 사유 선택": "选择申报理由",
+        "신고 사유를 선택해주세요.": "请选择申报理由。",
+        "추가 내용": "附加内容",
+        "자세한 신고 사유를 입력해주세요.": "请输入详细的申报理由。"
+      }
+    }
+  }
+}

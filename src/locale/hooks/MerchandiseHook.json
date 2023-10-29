@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_MerchandiseHook",
+    "locale": {
+      "en": {
+        "translation": {
+            "판매상품이_삭제되었습니다": "Selling product deleted.",
+            "판매상품이_등록되었습니다": "Selling product registered."
+        }
+      },
+      "ko": {
+        "translation": {
+            "판매상품이_삭제되었습니다": "판매상품이 삭제되었습니다.",
+            "판매상품이_등록되었습니다": "판매상품이 등록되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "판매상품이_삭제되었습니다": "销售产品删除。",
+            "판매상품이_등록되었습니다": "已登记销售产品。"
+        }
+      }
+    }
+  }
+  

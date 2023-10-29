@@ -1,0 +1,29 @@
+{
+  "namespace": "component_SearchSection",
+  "locale": {
+    "en": {
+      "translation": {
+        "현재": "Over",
+        "개의": "",
+        "부품_판매중": "Components in Stock!",
+        "필요한_부품을_검색해보세요":"Search for the parts you need"
+      }
+    },
+    "ko": {
+      "translation": {
+        "현재": "현재",
+        "개의": "개의",
+        "부품_판매중": "부품 판매중!",
+        "필요한_부품을_검색해보세요":"필요한 부품을 검색해보세요"
+      }
+    },
+    "chi": {
+      "translation": {
+        "현재": "目前",
+        "개의": "個",
+        "부품_판매중": "零件销售中！",
+        "필요한_부품을_검색해보세요":"请搜索一下需要的零件。"
+      }
+    }
+  }
+}

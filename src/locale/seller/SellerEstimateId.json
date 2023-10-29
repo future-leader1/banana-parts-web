@@ -1,0 +1,29 @@
+{
+  "namespace": "Seller_Product_EstimateId",
+  "locale": {
+    "en": {
+      "translation": {
+        "견적 정보": "Price inquiry",
+        "견적 거절": "Reject",
+        "견적 작성": "Submit",
+        "견적 다운로드": "Download"
+      }
+    },
+    "ko": {
+      "translation": {
+        "견적 정보": "견적 정보",
+        "견적 거절": "견적 거절",
+        "견적 작성": "견적 작성",
+        "견적 다운로드": "견적 다운로드"
+      }
+    },
+    "chi": {
+      "translation": {
+        "견적 정보": "价格查询",
+        "견적 거절": "拒绝",
+        "견적 작성": "提交",
+        "견적 다운로드": "下载"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "namespace": "component_WikiOpinionCard",
+    "locale": {
+        "en": {
+            "translation": {
+                "의견_작성자": "Writer",
+                "의견_작성일": "Date",
+                "확인": "Check",
+                "미확인": "Uncheck"
+            }
+        },
+        "ko": {
+            "translation": {
+                "의견_작성자": "의견 작성자",
+                "의견_작성일": "의견 작성일",
+                "확인": "확인",
+                "미확인": "미확인"
+            }
+        },
+        "chi": {
+            "translation": {
+                "의견_작성자": "撰写人",
+                "의견_작성일": "撰写日",
+                "확인": "确认",
+                "미확인": "未确认"
+            }
+        }
+    }
+}

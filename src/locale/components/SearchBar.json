@@ -1,0 +1,26 @@
+{
+  "namespace": "component_SearchBar",
+  "locale": {
+    "en": {
+      "translation": {
+        "검색어를 입력해주세요.": "Please enter a search keyword.",
+        "판매자 이름을 검색하세요!": "Search for seller name!",
+        "부품명, 전자부품 번호(P/N)을 검색하세요!": "Search for part name, electronic component number (P/N)!"
+      }
+    },
+    "ko": {
+      "translation": {
+        "검색어를 입력해주세요.": "검색어를 입력해주세요.",
+        "판매자 이름을 검색하세요!": "판매자 이름을 검색하세요!",
+        "부품명, 전자부품 번호(P/N)을 검색하세요!": "부품명, 전자부품 번호(P/N)을 검색하세요!"
+      }
+    },
+    "chi": {
+      "translation": {
+        "검색어를 입력해주세요.": "请输入搜索关键字。",
+        "판매자 이름을 검색하세요!": "搜索卖家名称！",
+        "부품명, 전자부품 번호(P/N)을 검색하세요!": "搜索零件名称，电子元件号码（P/N）！"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "namespace": "component_SignupCheckbox",
+  "locale": {
+    "en": {
+      "translation": {
+        "전체동의": "Click all",
+        "본인은_만_14세_이상입니다": "I am 14 years old or older (required)",
+        "이용약관에_동의": "Terms and conditions (required)",
+        "개인정보_제3자_제공_동의": "Terms regarding personal information (required)",
+        "개인정보_수집_및_이용_동의": "Consent to collect and use personal information (required)",
+        "개인정보_수집_및_이용_동의_선택": "Consent to collect and use personal information (option)",
+        "마케팅성_정보_수신_동의": "Agree to receive marketing information (option)"
+      }
+    },
+    "ko": {
+      "translation": {
+        "전체동의": "전체동의",
+        "본인은_만_14세_이상입니다": "본인은 만 14세 이상입니다 (필수)",
+        "이용약관에_동의": "이용약관에 동의 (필수)",
+        "개인정보_제3자_제공_동의": "개인정보 제3자 제공 동의 (필수)",
+        "개인정보_수집_및_이용_동의": "개인정보 수집 및 이용 동의 (필수)",
+        "개인정보_수집_및_이용_동의_선택": "개인정보 수집 및 이용 동의 (선택)",
+        "마케팅성_정보_수신_동의": "마케팅성 정보 수신 동의 (선택)"
+      }
+    },
+    "chi": {
+      "translation": {
+        "전체동의": "点击全部",
+        "본인은_만_14세_이상입니다": "本人是14周岁以上（必须）",
+        "이용약관에_동의": "条款和条件(必需)",
+        "개인정보_제3자_제공_동의": "有关个人资料的条款(必需)",
+        "개인정보_수집_및_이용_동의": "个人信息收集及使用同意（必需）",
+        "개인정보_수집_및_이용_동의_선택": "个人信息收集及使用同意（选择）",
+        "마케팅성_정보_수신_동의": "同意接收营销性信息(选择)"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "namespace": "SearchSellerInfo",
+  "locale": {
+    "en": {
+      "translation": {
+        "검색 결과": "Search Results",
+        "건": "Items",
+        "검색 결과가 없습니다.": "No search results found.",
+        "판매자명": "Seller Name",
+        "회사소개": "Company Info",
+        "홈페이지 URL": "Website URL",
+        "상세보기": "View Details"
+      }
+    },
+    "ko": {
+      "translation": {
+        "검색 결과": "검색 결과",
+        "건": "건",
+        "검색 결과가 없습니다.": "검색 결과가 없습니다.",
+        "판매자명": "판매자명",
+        "회사소개": "회사소개",
+        "홈페이지 URL": "홈페이지 URL",
+        "홈페이지 url": "홈페이지 url",
+        "상세보기": "상세보기"
+      }
+    },
+    "chi": {
+      "translation": {
+        "검색 결과": "搜索结果",
+        "건": "项",
+        "검색 결과가 없습니다.": "没有找到搜索结果。",
+        "판매자명": "卖家名称",
+        "회사소개": "公司信息",
+        "홈페이지 URL": "网站 URL",
+        "상세보기": "查看详情"
+      }
+    }
+  }
+}

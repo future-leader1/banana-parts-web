@@ -1,0 +1,23 @@
+{
+  "namespace": "mypage_product_estimate",
+  "locale": {
+    "en": {
+      "translation": {
+        "견적 정보": "Quotation Information",
+        "견적 다운로드": "Download Quotation"
+      }
+    },
+    "ko": {
+      "translation": {
+        "견적 정보": "견적 정보",
+        "견적 다운로드": "견적 다운로드"
+      }
+    },
+    "chi": {
+      "translation": {
+        "견적 정보": "报价信息",
+        "견적 다운로드": "下载报价"
+      }
+    }
+  }
+}

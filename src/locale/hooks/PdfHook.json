@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_PdfHook",
+    "locale": {
+      "en": {
+        "translation": {
+             "PDF_생성에_실패했습니다": "Error creating PDF.",
+             "_견적서.pdf":"_price_quote.pdf"
+        }
+      },
+      "ko": {
+        "translation": {
+            "PDF_생성에_실패했습니다": "PDF 생성에 실패했습니다.",
+            "_견적서.pdf":"_견적서.pdf"
+        }
+      },
+      "chi": {
+        "translation": {
+             "PDF_생성에_실패했습니다": "PDF文件创建失败。",
+             "_견적서.pdf":"_估计值.pdf"
+        }
+      }
+    }
+  }
+  

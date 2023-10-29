@@ -1,0 +1,21 @@
+{
+    "namespace": "component_UnitPriceDropdown",
+    "locale": {
+      "en": {
+        "translation": {
+            "판매자가_회신한_단가":"The minimum and maximum unit price has been replied by the seller."
+        }
+      },
+      "ko": {
+        "translation": {
+          "판매자가_회신한_단가":"판매자가 회신한 단가의 최소, 최대가격입니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "판매자가_회신한_단가":"最低和最高单价已由卖方回复。"
+        }
+      }
+    }
+  }
+  

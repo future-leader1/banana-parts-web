@@ -1,0 +1,20 @@
+{
+  "namespace": "SellerInfo",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매자 정보": "Seller Information"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매자 정보": "판매자 정보"
+      }
+    },
+    "chi": {
+      "translation": {
+        "판매자 정보": "銷售者信息"
+      }
+    }
+  }
+}

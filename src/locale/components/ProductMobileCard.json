@@ -1,0 +1,23 @@
+{
+  "namespace": "component_ProductMobileCard",
+  "locale": {
+    "en": {
+      "translation": {
+        "견적요청": "Request Quote",
+        "판매자 상세보기": "View Seller Details"
+      }
+    },
+    "ko": {
+      "translation": {
+        "견적요청": "견적요청",
+        "판매자 상세보기": "판매자 상세보기"
+      }
+    },
+    "chi": {
+      "translation": {
+        "견적요청": "请求报价",
+        "판매자 상세보기": "查看卖家详情"
+      }
+    }
+  }
+}

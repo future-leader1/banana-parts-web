@@ -1,0 +1,32 @@
+{
+  "namespace": "Seller_Success",
+  "locale": {
+    "en": {
+      "translation": {
+        "판매 등록 요청 완료": "Sales Registration Request Complete",
+        "관리자에게 판매 등록 요청이 완료되었습니다.": "Your sales registration request has been completed and sent to the administrator.",
+        "부품명/제조사가 매칭되지 않거나, 새로운 제품은 관리자 검토 후 등록이 진행되며": "If the part name/manufacturer does not match or if it's a new product, registration will proceed after the administrator's review.",
+        "메일로 처리 결과를 안내드립니다.": "We will notify you of the processing results via email.",
+        "판매관리 페이지로 →": "Go to Sales Management Page →"
+      }
+    },
+    "ko": {
+      "translation": {
+        "판매 등록 요청 완료": "판매 등록 요청 완료",
+        "관리자에게 판매 등록 요청이 완료되었습니다.": "관리자에게 판매 등록 요청이 완료되었습니다.",
+        "부품명/제조사가 매칭되지 않거나, 새로운 제품은 관리자 검토 후 등록이 진행되며": "부품명/제조사가 매칭되지 않거나, 새로운 제품은 관리자 검토 후 등록이 진행되며",
+        "메일로 처리 결과를 안내드립니다.": "메일로 처리 결과를 안내드립니다.",
+        "판매관리 페이지로 →": "판매관리 페이지로 →"
+      }
+    },
+    "zh": {
+      "translation": {
+        "판매 등록 요청 완료": "销售注册请求已完成",
+        "관리자에게 판매 등록 요청이 완료되었습니다.": "您的销售注册请求已完成，并已发送给管理员。",
+        "부품명/제조사가 매칭되지 않거나, 새로운 제품은 관리자 검토 후 등록이 진행되며": "如果零件名称/制造商不匹配或是新产品，则需经管理员审核后才能注册。",
+        "메일로 처리 결과를 안내드립니다.": "我们将通过电子邮件通知您的处理结果。",
+        "판매관리 페이지로 →": "前往销售管理页面 →"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_AuthHook",
+    "locale": {
+      "en": {
+        "translation": {
+            "회원가입이_완료되었습니다": "Registration successful.",
+            "비밀번호_설정이_완료되었습니다": "Password change successful."
+                }
+      },
+      "ko": {
+        "translation": {
+            "회원가입이_완료되었습니다": "회원가입이 완료되었습니다.",
+            "비밀번호_설정이_완료되었습니다": "비밀번호 설정이 완료되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "회원가입이_완료되었습니다": "登记成功。",
+            "비밀번호_설정이_완료되었습니다": "密码更改成功。"
+                }
+      }
+    }
+  }
+  

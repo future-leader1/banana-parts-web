@@ -1,0 +1,80 @@
+{
+  "namespace": "component_footer",
+  "locale": {
+    "en": {
+      "translation": {
+        "바나나파츠 소개": "Introduction to Banana Parts",
+        "뉴스레터 구독":"Subscribe to Newsletter",
+        "이용약관": "Terms of Service",
+        "개인정보 처리 방침": "Privacy Policy",
+        "FAQ": "FAQ",
+        "공지사항": "Notice",
+        "(주) 바나나파츠": "Banana Parts Co., LTD registered in South Korea",
+        "사업자등록번호": "Business Registration Number",
+        "대표 홍성준": "",
+        "서울서대문-0014": "Seoul Seodaemun-0014",
+        "Manufacturer": "Manufacturer",
+        "Price": "Price",
+        "No bookmarked products.": "No bookmarked products.",
+        "info@banana.parts": "info@banana.parts",
+        "070-8830-6000": "070-8830-6000",
+        "사업자 정보 확인": "Verify Business Information",
+        "제조사": "Manufacturer",
+        "단가": "Price",
+        "즐겨찾기 된 상품이 없습니다.": "No bookmarks.",
+        "서울특별시 강남구 강남대로 464 비제바노빌딩 3층": "3rd Floor, Bije Banoville Building, 464 Gangnam-daero, Gangnam-gu, Seoul",
+        "Copyright © Banana Parts Co., LTD. All rights reserved.": "Copyright © Banana Parts Co., LTD. All rights reserved."
+      }
+    },
+    "ko": {
+      "translation": {
+        "바나나파츠 소개": "바나나파츠 소개",
+        "뉴스레터 구독":"뉴스레터 구독",
+        "이용약관": "이용약관",
+        "개인정보 처리 방침": "개인정보 처리 방침",
+        "FAQ": "FAQ",
+        "공지사항": "공지사항",
+        "(주) 바나나파츠": "(주) 바나나파츠",
+        "사업자등록번호": "사업자등록번호",
+        "대표 홍성준": "대표 홍성준",
+        "서울서대문-0014": "서울서대문-0014",
+        "Manufacturer": "제조사",
+        "Price": "단가",
+        "No bookmarked products.": "즐겨찾기 된 상품이 없습니다.",
+        "info@banana.parts": "info@banana.parts",
+        "070-8830-6000": "070-8830-6000",
+        "사업자 정보 확인": "사업자 정보 확인",
+        "제조사": "제조사",
+        "단가": "단가",
+        "즐겨찾기 된 상품이 없습니다.": "즐겨찾기 된 상품이 없습니다.",
+        "서울특별시 강남구 강남대로 464 비제바노빌딩 3층": "서울특별시 강남구 강남대로 464 비제바노빌딩 3층",
+        "Copyright © Banana Parts Co., LTD. All rights reserved.": "Copyright © Banana Parts Co., LTD. All rights reserved."
+      }
+    },
+    "chi": {
+      "translation": {
+        "바나나파츠 소개": "巴那那零件介紹",
+        "뉴스레터 구독":"订阅新闻稿",
+        "이용약관": "使用條款",
+        "개인정보 처리 방침": "隱私政策",
+        "FAQ": "常見問題",
+        "공지사항": "公告事項",
+        "(주) 바나나파츠": "(주) Banana Parts",
+        "사업자등록번호": "商業登記編號",
+        "대표 홍성준": "",
+        "서울서대문-0014": "首爾西大門-0014",
+        "Manufacturer": "製造商",
+        "Price": "價格",
+        "No bookmarked products.": "沒有收藏的產品。",
+        "info@banana.parts": "info@banana.parts",
+        "070-8830-6000": "070-8830-6000",
+        "사업자 정보 확인": "驗證商業信息",
+        "제조사": "制造商",
+        "단가": "价格",
+        "즐겨찾기 된 상품이 없습니다.": "没有收藏的产品。",
+        "서울특별시 강남구 강남대로 464 비제바노빌딩 3층": "首爾江南區江南大路464號比濟巴諾大廈3樓",
+        "Copyright © Banana Parts Co., LTD. All rights reserved.": "Copyright © Banana Parts Co., LTD. All rights reserved."
+      }
+    }
+  }
+}

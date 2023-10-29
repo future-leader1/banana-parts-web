@@ -1,0 +1,21 @@
+{
+    "namespace": "hooks_EstimateHook",
+    "locale": {
+      "en": {
+        "translation": {
+            "견적요청이_완료되었습니다": "Quote inquiry sent successfully."
+        }
+      },
+      "ko": {
+        "translation": {
+            "견적요청이_완료되었습니다": "견적요청이 완료되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+            "견적요청이_완료되었습니다": "报价申请已完成。"
+        }
+      }
+    }
+  }
+  

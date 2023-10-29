@@ -1,0 +1,172 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-800;
+  }
+  button,
+  input,
+  textarea,
+  select {
+    @apply focus:outline-none;
+  }
+}
+
+@layer components {
+  .hidden-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .hidden-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+  }
+
+  .avatar {
+    @apply inline-block rounded-full object-cover;
+  }
+  .avatar-default {
+    @apply inline-block overflow-hidden rounded-full bg-gray-100 align-middle;
+  }
+  .button {
+    @apply h-12 rounded-lg px-4 font-medium;
+  }
+  .card {
+    @apply flex flex-col divide-y divide-gray-200 overflow-hidden rounded-lg border border-gray-200 shadow;
+  }
+  .checkbox {
+    @apply wh-4 rounded text-brand-1
+           focus:outline-none focus:ring-2 focus:ring-brand-1 focus:ring-offset-2;
+  }
+  .dropdown {
+    @apply relative w-max;
+  }
+  .dropdown-view {
+    @apply absolute z-20 mt-2 w-max origin-top transform bg-white shadow-lg ring-1
+           ring-black ring-opacity-5 transition focus:outline-none;
+  }
+  input {
+    -webkit-appearance: none;
+  }
+
+  .label {
+    @apply text-sm text-gray-800;
+  }
+  .label-col {
+    @apply flex flex-col space-y-1;
+  }
+  .label-row {
+    @apply flex items-center space-x-2;
+  }
+  .menu {
+    @apply flex flex-col py-1;
+  }
+  .menu-item {
+    @apply px-4 py-2 text-left text-sm text-gray-600 hover:bg-gray-100 hover:text-gray-800;
+  }
+  .pagination {
+    @apply flex items-center justify-between px-6 py-3;
+  }
+  .pagination-label {
+    @apply text-sm text-gray-700;
+  }
+  .pagination-nav {
+    @apply flex -space-x-px shadow-sm;
+  }
+  .pagination-nav-button {
+    @apply grid min-w-10 place-items-center border p-2 text-sm font-medium;
+  }
+
+  .progress[value]::-webkit-progress-bar {
+    @apply overflow-hidden rounded-full bg-gray-200;
+  }
+
+  .progress[value] {
+    appearance: none;
+  }
+
+  .progress[value]::-webkit-progress-value {
+    @apply bg-green-500;
+  }
+
+  .radio {
+    @apply wh-4 text-brand-1
+           focus:outline-none focus:ring-2 focus:ring-brand-1 focus:ring-offset-2;
+  }
+  .select {
+    @apply h-12 rounded-md border border-gray-200 px-4 placeholder-gray-400
+           focus:border-brand-1 focus:ring-0 disabled:bg-gray-100 disabled:text-gray-400;
+  }
+  .sidebar {
+    @apply flex w-48 flex-col border-r border-gray-200 bg-brand-black;
+  }
+  .sidebar-title {
+    @apply flex h-16 items-center px-4 text-2xl font-bold text-gray-800;
+  }
+  .sidebar-menu {
+    @apply flex flex-grow flex-col space-y-1 overflow-y-auto p-2;
+  }
+  .sidebar-menu-item {
+    @apply flex items-center rounded-md px-4 py-3 text-sm font-medium;
+  }
+  .sidebar-menu-sub {
+    @apply flex items-center rounded-md py-2 px-5 text-sm;
+  }
+  .table {
+    @apply divide-y divide-gray-200;
+  }
+  .table-head {
+    @apply bg-brand-black;
+  }
+  .table-body {
+    @apply divide-y divide-gray-200 bg-white;
+  }
+  .table-th {
+    @apply px-3 py-3 text-left text-xs font-medium uppercase tracking-wider text-white;
+  }
+  .table-td {
+    @apply max-w-xs truncate px-3 py-4 text-left text-13 text-gray-600;
+  }
+  .textarea {
+    @apply rounded-md border border-gray-200 px-4 py-2 placeholder-gray-400
+           focus:border-brand-1 focus:ring-0 disabled:bg-gray-100 disabled:text-gray-400;
+  }
+  .textfield {
+    @apply h-12 rounded-md border border-gray-200 px-4 placeholder-gray-400
+           focus:border-brand-1 focus:ring-0 disabled:bg-gray-100 disabled:text-gray-400;
+  }
+
+  .textfield::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+
+  .textfield::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+
+  .toggle {
+    @apply relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2
+           border-transparent transition-colors duration-200 ease-in-out focus:outline-none
+           focus:ring-2 focus:ring-brand-1 focus:ring-offset-2;
+  }
+  .toggle-slider {
+    @apply pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow
+           ring-0 transition duration-200 ease-in-out;
+  }
+
+  .selectedButton {
+    @apply filled-black min-w-fit rounded-xl py-3 px-4 text-14;
+  }
+  .noneSelectedButton {
+    @apply min-w-fit rounded-xl bg-gray-200 py-3 px-4 text-14 text-gray-400;
+  }
+}
+
+html {
+  -webkit-print-color-adjust: exact;
+}

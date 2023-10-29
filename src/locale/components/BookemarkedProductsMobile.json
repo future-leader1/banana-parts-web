@@ -1,0 +1,26 @@
+{
+  "namespace": "component_BookMarkedProductsMobile",
+  "locale": {
+    "en": {
+      "translation": {
+        "제조사": "Manufacturer",
+        "단가": "Price",
+        "즐겨찾기 된 상품이 없습니다.": "No bookmarked products."
+      }
+    },
+    "ko": {
+      "translation": {
+        "제조사": "제조사",
+        "단가": "단가",
+        "즐겨찾기 된 상품이 없습니다.": "즐겨찾기 된 상품이 없습니다."
+      }
+    },
+    "chi": {
+      "translation": {
+        "제조사": "制造商",
+        "단가": "价格",
+        "즐겨찾기 된 상품이 없습니다.": "没有收藏的产品。"
+      }
+    }
+  }
+}

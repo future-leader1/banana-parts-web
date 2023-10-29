@@ -1,0 +1,26 @@
+{
+  "namespace": "component_ManufacureListModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "제조사를 선택해주세요.": "Select a Manufacturer",
+        "제조사를 검색해주세요.": "Search for a Manufacturer",
+        "선택": "Select"
+      }
+    },
+    "ko": {
+      "translation": {
+        "제조사를 선택해주세요.": "제조사를 선택해주세요.",
+        "제조사를 검색해주세요.": "제조사를 검색해주세요.",
+        "선택": "선택"
+      }
+    },
+    "chi": {
+      "translation": {
+        "제조사를 선택해주세요.": "請選擇製造商",
+        "제조사를 검색해주세요.": "搜索製造商",
+        "선택": "選擇"
+      }
+    }
+  }
+}

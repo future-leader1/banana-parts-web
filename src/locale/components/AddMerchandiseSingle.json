@@ -1,0 +1,35 @@
+{
+  "namespace": "component_AddMerchandiseSingle",
+  "locale": {
+    "en": {
+      "translation": {
+        "단일 판매 등록": "Single Sale Registration",
+        "부품명을 입력하시고 제조사를 선택해주세요.": "Please enter the product name and select the manufacturer.",
+        "선택한 상품": "Selected Products",
+        "선택된 상품이 없습니다.": "No selected products.",
+        "단일 등록하기": "Register Single",
+        "대량판매 등록은 PC에서만 지원가능 하니 PC로 접속하여 이용 부탁드립니다.": "Bulk sale registration is only supported on PC. Please use a PC to access."
+      }
+    },
+    "ko": {
+      "translation": {
+        "단일 판매 등록": "단일 판매 등록",
+        "부품명을 입력하시고 제조사를 선택해주세요.": "부품명을 입력하시고 제조사를 선택해주세요.",
+        "선택한 상품": "선택한 상품",
+        "선택된 상품이 없습니다.": "선택된 상품이 없습니다.",
+        "단일 등록하기": "단일 등록하기",
+        "대량판매 등록은 PC에서만 지원가능 하니 PC로 접속하여 이용 부탁드립니다.": "대량판매 등록은 PC에서만 지원가능 하니 PC로 접속하여 이용 부탁드립니다."
+      }
+    },
+    "chi": {
+      "translation": {
+        "단일 판매 등록": "单个销售注册",
+        "부품명을 입력하시고 제조사를 선택해주세요.": "请输入产品名称并选择制造商。",
+        "선택한 상품": "选择的产品",
+        "선택된 상품이 없습니다.": "没有选择的产品。",
+        "단일 등록하기": "单个注册",
+        "대량판매 등록은 PC에서만 지원가능 하니 PC로 접속하여 이용 부탁드립니다.": "仅支持在PC上进行大批量销售注册。请使用PC进行访问。"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: Googlebot
+User-agent: yeti
+User-agent: daumoa
+Allow: /
+Disallow: /mypage/
+Disallow: /seller/
+Disallow: /sellerInfo/
+Disallow: /admin/
+
+User-agent: *
+Allow: /
+Disallow: /mypage/
+Disallow: /seller/
+Disallow: /sellerInfo/
+Disallow: /admin/

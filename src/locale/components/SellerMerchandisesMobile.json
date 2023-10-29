@@ -1,0 +1,21 @@
+{
+    "namespace": "component_SellerMerchandisesMobile",
+    "locale": {
+      "en": {
+        "translation": {
+            "제조사":"Manufacturer : "
+        }
+      },
+      "ko": {
+        "translation": {
+            "제조사":"제조사 : "
+        }
+      },
+      "chi": {
+        "translation": {
+            "제조사":"制造商 : "
+        }
+      }
+    }
+  }
+  

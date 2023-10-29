@@ -1,0 +1,26 @@
+{
+  "namespace": "Component_LanguageChangeCurrency",
+  "locale": {
+    "en": {
+      "translation": {
+        "언어": "Language",
+        "통화": "Currency",
+        "저장하기": "Save"
+      }
+    },
+    "ko": {
+      "translation": {
+        "언어": "언어",
+        "통화": "통화",
+        "저장하기": "저장하기"
+      }
+    },
+    "chi": {
+      "translation": {
+        "언어": "语言 。",
+        "통화": "通话 。",
+        "저장하기": "保存"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "namespace": "hooks_RegisterRequestHistoryHook",
+    "locale": {
+      "en": {
+        "translation": {
+             "엑셀파일이_업로드_되었습니다": "File uploaded successfully."
+        }
+      },
+      "ko": {
+        "translation": {
+            "엑셀파일이_업로드_되었습니다": "엑셀파일이 업로드 되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+             "엑셀파일이_업로드_되었습니다": "文件上传成功。"
+        }
+      }
+    }
+  }
+  

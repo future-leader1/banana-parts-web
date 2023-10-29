@@ -1,0 +1,29 @@
+{
+  "namespace": "component_SelectTagModal",
+  "locale": {
+    "en": {
+      "translation": {
+        "태그선택": "Tag Selection",
+        "태그를 선택해주세요.": "Please select a tag",
+        "건너뛰기": "Skip",
+        "확인": "Confirm"
+      }
+    },
+    "ko": {
+      "translation": {
+        "태그선택": "태그선택",
+        "태그를 선택해주세요.": "태그를 선택해주세요.",
+        "건너뛰기": "건너뛰기",
+        "확인": "확인"
+      }
+    },
+    "chi": {
+      "translation": {
+        "태그선택": "选择标签",
+        "태그를 선택해주세요.": "请选择一个标签",
+        "건너뛰기": "跳过",
+        "확인": "确认"
+      }
+    }
+  }
+}

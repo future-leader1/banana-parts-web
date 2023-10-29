@@ -1,0 +1,24 @@
+{
+    "namespace": "hooks_ProductEstimateResponseHook",
+    "locale": {
+      "en": {
+        "translation": {
+          "견적서_발송이_완료되었습니다": "The quotation has been sent.",
+          "견적서_거절이_완료되었습니다": "The rejection of the estimate has been completed."
+        }
+      },
+      "ko": {
+        "translation": {
+          "견적서_발송이_완료되었습니다": "견적서 발송이 완료되었습니다.",
+          "견적서_거절이_완료되었습니다": "견적서 거절이 완료되었습니다."
+        }
+      },
+      "chi": {
+        "translation": {
+          "견적서_발송이_완료되었습니다": "报价单已发送完毕。",
+          "견적서_거절이_완료되었습니다": "报价单拒绝完毕。"
+        }
+      }
+    }
+  }
+  

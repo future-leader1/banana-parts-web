@@ -1,0 +1,47 @@
+{
+  "namespace": "component_SellerInfoStatus",
+  "locale": {
+    "en": {
+      "translation": {
+        "확인중": "In progress",
+        "제출해주신 정보를 확인중 입니다.": "We are currently reviewing the information you submitted.",
+        "제출 시점으로부터 평일 기준 12시간 이내 검토 후 계정 승인이 완료될 예정입니다.": "Your account approval will be completed within 1-2 regular business days.",
+        "수정 대기": "Correction pending",
+        "승인 거절": "Approval rejected",
+        "승인이 거절되었습니다.": "We're sorry, the approval process was unsuccessful.",
+        "내용을 확인 후 다시 신청해주세요.": "Please review the details and resubmit your request.",
+        "사업자 등록증을 다시 확인해주세요.": "Please check your business registration certificate for errors.",
+        "승인완료": "Approval completed",
+        "판매자 승인 완료.": "Seller approval completed successfully."
+      }
+    },
+    "ko": {
+      "translation": {
+        "확인중": "확인중",
+        "제출해주신 정보를 확인중 입니다.": "제출해주신 정보를 확인중 입니다.",
+        "제출 시점으로부터 평일 기준 12시간 이내 검토 후 계정 승인이 완료될 예정입니다.": "계정 승인은 제출 시점으로부터 일반 영업일 기준 1-2일 이내에 완료됩니다.",
+        "수정 대기": "수정 대기",
+        "승인 거절": "승인 거절",
+        "승인이 거절되었습니다.": "승인이 거절되었습니다.",
+        "내용을 확인 후 다시 신청해주세요.": "내용을 확인 후 다시 신청해주세요.",
+        "사업자 등록증을 다시 확인해주세요.": "사업자 등록증을 다시 확인해주세요.",
+        "승인완료": "승인완료",
+        "판매자 승인 완료.": "판매자 승인 완료."
+      }
+    },
+    "chi": {
+      "translation": {
+        "확인중": "确认中",
+        "제출해주신 정보를 확인중 입니다.": "我们正在审核您提交的信息。",
+        "제출 시점으로부터 평일 기준 12시간 이내 검토 후 계정 승인이 완료될 예정입니다.": "您的帐户批准将在1-2个正常营业日内完成。",
+        "수정 대기": "修改等待中",
+        "승인 거절": "审批被拒绝",
+        "승인이 거절되었습니다.": "对不起，审批程序没有成功。",
+        "내용을 확인 후 다시 신청해주세요.": "请确认详细信息并重新提交申请。",
+        "사업자 등록증을 다시 확인해주세요.": "请检查您的商业登记证是否有错误。",
+        "승인완료": "审批完成",
+        "판매자 승인 완료.": "卖家已获批准。"
+      }
+    }
+  }
+}

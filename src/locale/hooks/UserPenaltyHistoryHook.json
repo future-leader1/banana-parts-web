@@ -1,0 +1,21 @@
+{
+    "namespace": "hooks_UserpenaltyHIstoryHook",
+    "locale": {
+      "en": {
+        "translation": {
+            "신고완료": "Report completed successfully"
+        }
+      },
+      "ko": {
+        "translation": {
+          "신고완료": "신고완료"
+        }
+      },
+      "chi": {
+        "translation": {
+            "신고완료": "申报完毕"
+        }
+      }
+    }
+  }
+  
